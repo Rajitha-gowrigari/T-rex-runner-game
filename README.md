@@ -1,1 +1,2 @@
-# T-rex-runner-game
+# T-Rex-game
+T-Rex game by Abhiveda Reddy Gowrigari
